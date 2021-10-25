@@ -2,7 +2,7 @@ var nav = document.querySelector(".nav");
 var menu = document.querySelector(".menu");
 var close = document.querySelector("#close");
 var body = document.querySelector("body");
-nav.style.display = "none";
+
 function shownav(){
     nav.style.display = "block";
     menu.style.display = "none";
